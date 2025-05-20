@@ -1,0 +1,6 @@
+John m 18 CS
+William m 22 Math
+Susan f 21 Math
+Jack m 19 Physics
+Jennifer f 18 CS
+Sophia f 20 CS
